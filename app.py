@@ -26,7 +26,7 @@ HTML = """<!DOCTYPE html>
 </head>
 <body>
     <div class="card">
-        <h2>CI/CD部署成功! Flask App v2.0密钥配置修复完成</h2>
+        <h2>CI/CD部署成功! Flask App v2.0Docker 已部署</h2>
         <p>姓名：任湘忆 学号：2440664310 | 服务运行正常</p>
     </div>
 </body>
